@@ -10,5 +10,5 @@ Use this in following order
    * adds `OLLAMA_HOST=0.0.0.0` to `/etc/systemd/system/ollama.service`
 
 5. ollama_updater_models.sh
-   * don't know, if necessary
+   * don't know, if necessary at all
    * just to be sure that all local models are downloaded correctly
