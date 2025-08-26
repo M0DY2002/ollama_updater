@@ -11,4 +11,4 @@ Use this in following order
 
 5. ollama_updater_models.sh
    * don't know, if necessary
-   * just to be shure that all local models are downloaded correctly
+   * just to be sure that all local models are downloaded correctly
